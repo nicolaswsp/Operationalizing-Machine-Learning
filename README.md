@@ -73,6 +73,7 @@ The following link shows a screen recording of the project in action. The screen
 * Deployed Pipeline
 * Available AutoML Model
 * Successful API requests to the endpoint with a JSON payload
+
 https://www.youtube.com/watch?v=MrXGluUcm9c&ab_channel=N%C3%ADcolasWeisdeSouzaPauli
 
 ## Future improvements
