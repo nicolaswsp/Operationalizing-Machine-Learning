@@ -17,25 +17,25 @@ The following steps were performed in order to complete this project:
 * Documentation
 
 ## Key Steps
-* Registered the Bank Markerting dataset
+* Registered the Bank Markerting dataset  
 ![picture1](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture1.png)
 
-* Completed the experiment
+* Completed the experiment  
 ![picture2](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture2.png)
 
-* Best model obtained by auto ML
+* Best model obtained by auto ML   
 ![picture3](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture3.png)
 
-* Logs.py were ran obtaining the logs
+* Logs.py were ran obtaining the logs  
 ![picture4](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture4.png)
 
-* The Application Insights was enabled 
+* The Application Insights was enabled   
 ![picture5](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture5.png)
 
-* It was ran the Swagger on local host
+* It was ran the Swagger on local host  
 ![picture6](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture6.png)
 
-* Methods and responses from Swagger
+* Methods and responses from Swagger  
 ![picture7](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture7.png)
 
   ![picture8](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture8.png)
@@ -46,25 +46,25 @@ The following steps were performed in order to complete this project:
 
   ![picture11](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture11.png)
 
-* Ran the endpoint.py against the API
+* Ran the endpoint.py against the API  
 ![picture12](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture12.png)
 
-* Ran Apache Benchmark against the HTTP API
+* Ran Apache Benchmark against the HTTP API  
 ![picture13](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture13.png)
 
-* The pipeline has been created
+* The pipeline has been created  
 ![picture14](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture14.png)
 
-* The pipeline endpoint is available
+* The pipeline endpoint is available  
 ![picture15](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture15.png)
 
-* The Published Pipeline overview shows the REST endpoint and the ACTIVE status
+* The Published Pipeline overview shows the REST endpoint and the ACTIVE status  
 ![picture16](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture16.png)
 
-* The RunDetails Widget shows the step runs
+* The RunDetails Widget shows the step runs  
 ![picture17](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture17.png)
 
-* ML Studio showing the scheduled run
+* ML Studio showing the scheduled run  
 ![picture18](https://github.com/nicolaswsp/Operationalizing-Machine-Learning/blob/main/Images/Picture18.png)
 
 ## Screen Recording
